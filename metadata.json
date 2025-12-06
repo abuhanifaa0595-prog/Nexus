@@ -1,0 +1,5 @@
+{
+  "name": "NexusOS",
+  "description": "A next-generation, web-based operating system featuring a window manager, virtual file system, and deep Gemini AI integration.",
+  "requestFramePermissions": []
+}
